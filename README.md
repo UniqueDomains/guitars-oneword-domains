@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .GUITARS one-word domains still available to buy.
 
-This dataset contains 4,899 .GUITARS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,897 .GUITARS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.GUITARS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guitars-oneword-domains&utm_content=description.top) (4,899) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.GUITARS one word doma
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.guitars        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.guitars      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.guitars      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.guitars  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.guitars      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.guitars  | available | 58       | 7%     | 9      |           |         |         |
