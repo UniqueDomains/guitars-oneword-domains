@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .guitars one-word domains from Uni
 
 **Public extract:** 9,838 rows · **Live catalog:** 9,838 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/guitars`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | good.guitars       | premium   | $845      | $845          | 82             | 55     | 4      | namecheap       |
 | zero.guitars       | available | $159.98   | —             | 112            | 53     | 4      | namecheap       |
 | steel.guitars      | resell    | —         | —             | 62             | 31     | 5      | Porkbun, LLC    |
-| alpha.guitars      | premium   | $2,600    | $2,600        | 90             | 54     | 5      | namecheap       |
+| alpha.guitars      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap       |
 | business.guitars   | available | $159.98   | —             | 100            | 53     | 8      | namecheap       |
 | prince.guitars     | resell    | —         | —             | 88             | 30     | 6      | 1API GmbH       |
 | true.guitars       | premium   | $845      | $845          | 86             | 52     | 4      | namecheap       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
