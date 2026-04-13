@@ -82,7 +82,7 @@ print(df.head())
 | business.guitars   | available | $159.98   | —             | 100            | 53     | 8      | namecheap       |
 | prince.guitars     | resell    | —         | —             | 88             | 30     | 6      | 1API GmbH       |
 | true.guitars       | premium   | $845      | $845          | 86             | 52     | 4      | namecheap       |
-| fast.guitars       | available | $159.98   | —             | 82             | 53     | 4      | namecheap       |
+| art.guitars        | available | $159.98   | —             | 90             | 52     | 3      | namecheap       |
 | bass.guitars       | resell    | —         | —             | 64             | 27     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
