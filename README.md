@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .guitars one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,828 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,828 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,828 domains · **Median ask:** $197.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/guitars`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,13 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.guitars          | available | $159.98   | —             | 80             | 5      | 5      | namecheap |
+| homes.guitars         | available | $159.98   | —             | 86             | 34     | 5      | namecheap |
+| geton.guitars         | available | $159.98   | —             | 82             | 10     | 6      | namecheap |
+| getup.guitars         | available | $159.98   | —             | 82             | 14     | 6      | namecheap |
+| popup.guitars         | available | $159.98   | —             | 84             | 29     | 6      | namecheap |
+| makeit.guitars        | available | $159.98   | —             | 82             | 22     | 7      | namecheap |
+| stirup.guitars        | available | $159.98   | —             | 82             | 3      | 7      | namecheap |
 | keepthechange.guitars | available | $159.98   | —             | 46             | 59     | 15     | namecheap |
 | CocaCola.guitars      | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap |
 | agents.guitars        | available | $159.98   | —             | 56             | 50     | 6      | namecheap |
@@ -77,13 +84,6 @@ print(df.head())
 | Tools.guitars         | available | $159.98   | —             | 56             | 40     | 5      | namecheap |
 | Trex.guitars          | premium   | $2,800    | $2,800        | 80             | 24     | 5      | namecheap |
 | prompts.guitars       | available | $104.99   | $114.99       | 54             | 39     | 7      | namesilo  |
-| comics.guitars        | premium   | $2,800    | $2,800        | 68             | 24     | 6      | namecheap |
-| justin.guitars        | available | $159.98   | —             | 58             | 38     | 7      | namecheap |
-| holidays.guitars      | premium   | $2,660    | $2,660        | 78             | 23     | 8      | namesilo  |
-| neuroscience.guitars  | available | $159.98   | —             | 80             | 37     | 12     | namecheap |
-| signs.guitars         | premium   | $2,800    | $2,800        | 64             | 22     | 5      | namecheap |
-| events.guitars        | available | $159.98   | —             | 68             | 37     | 6      | namecheap |
-| vans.guitars          | premium   | $2,660    | $2,660        | 55             | 17     | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,828 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,828 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word domains on the .guitars extension. That makes the main question less about extension choice and more about whether the word strengthens the meaning of .guitars. Names such as tips.guitars or ladies.guitars are direct and category-specific, while names like Acup.guitars or barup.guitars may feel less intuitive and need more scrutiny. When comparing these domains, focus on immediate comprehension, how naturally the word pairs with .guitars, and whether the term feels commercially usable for retail, content, community, education, or accessories. The median ask is 197.02, so price discipline should be paired with brandability and relevance rather than broad-market assumptions.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that read naturally before .guitars
+- Check if the term is clear, memorable, and specific
+- Use median ask 197.02 as a pricing reference point
+- Be cautious with awkward, vague, or trademarked terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
