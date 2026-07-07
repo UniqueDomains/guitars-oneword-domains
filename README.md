@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .guitars one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,830 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,830 domains · **Median ask:** $197.02 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,830 domains · **Median ask:** $203.82 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/guitars`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/guitars`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GUITARS one-word doma
 
 ### Files
 
-- `guitars.csv` — public CSV extract (1,000 rows)
-- `guitars.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `guitars.csv`, public CSV extract (1,000 rows)
+- `guitars.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.guitars          | available | $159.98   | —             | 80             | 5      | 5      | namecheap |
-| homes.guitars         | available | $159.98   | —             | 86             | 34     | 5      | namecheap |
-| geton.guitars         | available | $159.98   | —             | 82             | 10     | 6      | namecheap |
-| getup.guitars         | available | $159.98   | —             | 82             | 15     | 6      | namecheap |
-| popup.guitars         | available | $159.98   | —             | 84             | 28     | 6      | namecheap |
-| makeit.guitars        | available | $159.98   | —             | 82             | 21     | 7      | namecheap |
-| stirup.guitars        | available | $159.98   | —             | 82             | 3      | 7      | namecheap |
-| keepthechange.guitars | available | $159.98   | —             | 46             | 59     | 15     | namecheap |
-| CocaCola.guitars      | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap |
-| agents.guitars        | available | $159.98   | —             | 56             | 50     | 6      | namecheap |
-| travelers.guitars     | premium   | $2,660    | $2,660        | 58             | 61     | 9      | namesilo  |
-| cars.guitars          | available | $159.98   | —             | 66             | 47     | 4      | namecheap |
-| regions.guitars       | premium   | $2,800    | $2,800        | 64             | 59     | 7      | namecheap |
-| robots.guitars        | available | $104.99   | $114.99       | 62             | 47     | 6      | namesilo  |
-| Ryan.guitars          | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap |
-| shortcuts.guitars     | available | $159.98   | —             | 48             | 41     | 10     | namecheap |
-| brands.guitars        | premium   | $2,800    | $2,800        | 62             | 28     | 6      | namecheap |
-| Tools.guitars         | available | $159.98   | —             | 56             | 40     | 5      | namecheap |
-| Trex.guitars          | premium   | $2,800    | $2,800        | 80             | 24     | 5      | namecheap |
-| prompts.guitars       | available | $104.99   | $114.99       | 54             | 39     | 7      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| out.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| feel.guitars     | available | $104.99   | $114.99       | high           | low    | 4      | namesilo        |
+| ash.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
+| acoustic.guitars | resell    | —         | —             | high           | low    | 8      | Spaceship, Inc. |
+| are.guitars      | premium   | $832      | $832          | high           | low    | 3      | namesilo        |
+| ate.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| boy.guitars      | premium   | $910      | $910          | medium         | low    | 3      | namecheap       |
+| BJP.guitars      | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
+| yes.guitars      | premium   | $832      | $832          | high           | medium | 3      | namesilo        |
+| bro.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
+| ally.guitars     | premium   | $2,660    | $2,660        | medium         | high   | 4      | namesilo        |
+| con.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| bali.guitars     | premium   | $2,660    | $2,660        | medium         | medium | 4      | namesilo        |
+| cow.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| bars.guitars     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| cry.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| core.guitars     | premium   | $2,800    | $2,800        | medium         | medium | 4      | namecheap       |
+| cut.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| feet.guitars     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| dot.guitars      | available | $104.99   | $114.99       | high           | medium | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word domains on the .guitars extension. That makes the main question less about extension choice and more about whether the word strengthens the meaning of .guitars. Names such as tips.guitars or ladies.guitars are direct and category-specific, while names like Acup.guitars or barup.guitars may feel less intuitive and need more scrutiny. When comparing these domains, focus on immediate comprehension, how naturally the word pairs with .guitars, and whether the term feels commercially usable for retail, content, community, education, or accessories. The median ask is 197.02, so price discipline should be paired with brandability and relevance rather than broad-market assumptions.
+This selection covers 12,830 one-word .guitars domain names, ranging from simple dictionary words to compound phrases like "honeymooning" and "chickensoup." With a median ask of $203.82, the set offers a wide price range for buyers comparing short, brandable names within a single niche TLD. Because .guitars signals a music or instrument connection, names here work best for brands, hobbyists, or projects tied to that theme, though many are flexible enough for broader use.
 
-- Favor words that read naturally before .guitars
-- Check if the term is clear, memorable, and specific
-- Use median ask 197.02 as a pricing reference point
-- Be cautious with awkward, vague, or trademarked terms
+- 12,830 one-word .guitars domains in this selection
+- Median ask: $203.82 across the set
+- Names span dictionary words, phrases, and lifestyle terms
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
