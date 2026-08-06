@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .guitars one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,830 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,830 domains · **Median ask:** $203.82 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,830 domains · **Median ask:** $194.10 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/guitars`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| out.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
-| feel.guitars     | available | $104.99   | $114.99       | high           | low    | 4      | namesilo        |
-| ash.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
-| acoustic.guitars | resell    | —         | —             | high           | low    | 8      | Spaceship, Inc. |
+| ape.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
+| acoustic.guitars | resell    | —         | —             | medium         | low    | 8      | Spaceship, Inc. |
 | are.guitars      | premium   | $832      | $832          | high           | low    | 3      | namesilo        |
-| ate.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| ash.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
 | boy.guitars      | premium   | $910      | $910          | medium         | low    | 3      | namecheap       |
-| BJP.guitars      | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
+| ate.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
 | yes.guitars      | premium   | $832      | $832          | high           | medium | 3      | namesilo        |
-| bro.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
+| BJP.guitars      | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
 | ally.guitars     | premium   | $2,660    | $2,660        | medium         | high   | 4      | namesilo        |
-| con.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| bro.guitars      | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo        |
 | bali.guitars     | premium   | $2,660    | $2,660        | medium         | medium | 4      | namesilo        |
-| cow.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| con.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
 | bars.guitars     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
-| cry.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| cow.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
 | core.guitars     | premium   | $2,800    | $2,800        | medium         | medium | 4      | namecheap       |
-| cut.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| cry.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
 | feet.guitars     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
-| dot.guitars      | available | $104.99   | $114.99       | high           | medium | 3      | namesilo        |
+| cut.guitars      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo        |
+| laws.guitars     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| cxx.guitars      | available | $104.99   | $114.99       | low            | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,830 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 31 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GUITARS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
