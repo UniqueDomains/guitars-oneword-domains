@@ -29,7 +29,7 @@ df3ab848-893a-4a12-8b44-aaf622188343,rudderless.guitars,available,104.99,114.99,
 b747e693-de6b-4f80-81bb-bae493e551a8,assentient.guitars,available,104.99,114.99,low,low,10,namesilo,,,07/08/2026 05:48
 500818ee-9c4c-4e35-9c4c-63971d39fa30,glass.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
 0c60dc4c-bf3f-4744-8a7c-02b35089d14b,yellownotice.guitars,available,104.99,114.99,medium,low,13,namesilo,,,
-efee9a67-77c3-4c46-9f9f-af131120150b,Pentium.guitars,available,104.99,114.99,high,low,7,namesilo,,,
+efee9a67-77c3-4c46-9f9f-af131120150b,pentium.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 3df8ce4e-2b42-4a6a-837e-7fbf501e4bdf,despise.guitars,available,104.99,114.99,medium,low,7,namesilo,,,
 1264a5c4-14eb-4eab-89c8-3ef8a594c32f,arrive.guitars,premium,2660,2660,high,low,6,namesilo,,,
 269e52c3-2070-403d-8d74-56df41b3e996,noway.guitars,available,159.98,,medium,low,6,namecheap,,,
@@ -38,7 +38,7 @@ cccb57ab-40fc-451d-8783-985317fb738e,inexpert.guitars,available,104.99,114.99,lo
 a150b680-597a-493f-b6b3-75388f2501ee,bars.guitars,premium,2660,2660,high,low,4,namesilo,,,
 93bcaff6-d418-4b9a-93a2-ae5308eb3e37,flyingsaucer.guitars,available,104.99,114.99,high,low,13,namesilo,,,
 ef99cb30-8883-4d60-a144-5ea10d5299d3,veal.guitars,available,104.99,114.99,medium,low,4,namesilo,,,
-ebbea1e2-05cb-4ee1-89de-5a8e2e7b413f,Frenchroast.guitars,available,159.98,,medium,low,12,namecheap,,,
+ebbea1e2-05cb-4ee1-89de-5a8e2e7b413f,frenchroast.guitars,available,159.98,,medium,low,12,namecheap,,,
 acc12691-ddd4-49a2-929c-2cb7ce7bf8e8,businessventure.guitars,available,104.99,114.99,high,low,16,namesilo,,,
 0a35f34c-a39f-461e-9bb4-dea04da1e582,ensure.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 90958843-9613-4b3b-a580-81f78814c734,complex.guitars,available,104.99,114.99,high,low,7,namesilo,,,
@@ -51,16 +51,16 @@ ddcebdf9-23d6-45aa-8869-f07aed27e005,particles.guitars,available,104.99,114.99,l
 2ffba986-5889-4800-8e73-668a1b4473ff,prudent.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 23b3bc87-04d6-4beb-bcdc-2cbe49228305,bali.guitars,premium,2660,2660,medium,medium,4,namesilo,,,
 d8f08fc4-eb87-464a-80c1-a44e22ad9eb6,wakeup.guitars,available,104.99,114.99,medium,low,7,namesilo,,,07/08/2026 23:56
-f070d875-ce4b-4829-ba69-5a03f1ae55b3,Frenchmustard.guitars,available,159.98,,high,low,14,namecheap,,,
-de7bfdf2-ce72-48d2-8cac-03f9a405f1bf,WestHam.guitars,available,104.99,114.99,low,low,8,namesilo,,,
+f070d875-ce4b-4829-ba69-5a03f1ae55b3,frenchmustard.guitars,available,159.98,,high,low,14,namecheap,,,
+de7bfdf2-ce72-48d2-8cac-03f9a405f1bf,westham.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 934252a7-6eec-4a7f-977a-d8c140b20b35,damned.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
 aa2a455c-488e-47c4-ae29-4020e8867ff2,autarkical.guitars,available,104.99,114.99,low,low,10,namesilo,,,07/08/2026 18:42
-191ac758-3fd1-4c87-9681-d341465213b6,out.guitars,available,104.99,114.99,high,low,3,namesilo,,,
+191ac758-3fd1-4c87-9681-d341465213b6,out.guitars,available,104.99,114.99,medium,low,3,namesilo,,,19/09/2026 10:34
 96d97048-a233-46cd-813b-313e26940833,bemother.guitars,available,104.99,114.99,low,low,9,namesilo,,,
 1b86b281-18c2-4ae0-90b7-3929327b27b7,stink.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 24f844bd-dc8b-46e6-8242-55a1c138f8e3,nothanks.guitars,available,159.98,,medium,low,9,namecheap,,,
 b615ac61-7747-4293-9c87-9b8d1eb95203,mesh.guitars,available,104.99,114.99,high,high,4,namesilo,,,
-42ca41b1-5687-48f1-be22-200bcd1226f2,PuertoRico.guitars,available,,,low,low,11,,,,
+42ca41b1-5687-48f1-be22-200bcd1226f2,puertorico.guitars,available,,,low,low,11,,,,
 a94729c9-efc9-4f1e-b78c-d189397f96ac,inverted.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 7412dcad-e404-4f4d-81da-354d51274dcc,lowtech.guitars,available,104.99,114.99,medium,low,8,namesilo,,,
 46bb932a-d25f-422a-a4b4-feb24b89a812,baritone.guitars,available,104.99,114.99,low,low,8,namesilo,,,08/08/2026 19:36
@@ -69,7 +69,7 @@ a94729c9-efc9-4f1e-b78c-d189397f96ac,inverted.guitars,available,104.99,114.99,lo
 b09cfad3-da6f-4b20-9564-9267411ea2b1,fierce.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 c5dcf602-dc43-4b1b-9830-384a73242d1e,real.guitars,premium,845,845,high,medium,4,namecheap,,,
 a8d8be3b-aeec-4702-bcad-c70eb8f35eb7,taken.guitars,available,104.99,114.99,high,low,5,namesilo,,,
-4b1ce5d7-afa3-4a68-b730-720d8eefd90a,AustraliaDay.guitars,available,104.99,114.99,high,low,13,namesilo,,,
+4b1ce5d7-afa3-4a68-b730-720d8eefd90a,australiaday.guitars,available,104.99,114.99,high,low,13,namesilo,,,
 6423d01b-d7d8-4576-ac2c-e0af984c1c87,exhibit.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 374b6f21-b2d8-4a98-8589-7aa08afd289f,multitude.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 b0c54a64-0301-4a0b-ab54-178c16fdfd65,unhappy.guitars,available,159.98,,high,low,7,namecheap,,,
@@ -90,7 +90,7 @@ c56be232-cab9-4de4-808d-a869e0b57e24,acheronian.guitars,available,104.99,114.99,
 886a21b7-6b72-4b18-99db-d1f1ee275360,adulterant.guitars,available,104.99,114.99,low,low,10,namesilo,,,
 72134f62-8d91-435d-b281-d2e59e862d6f,daddy.guitars,premium,2660,2660,high,low,5,namesilo,,,
 274236f5-e5a0-4172-bff5-c7033da7f3bf,sweatshirt.guitars,available,159.98,,high,low,10,namecheap,,,
-a4f39e43-727b-4feb-bea6-3f845e7d3e12,fixitagainTony.guitars,available,104.99,114.99,medium,low,17,namesilo,,,
+a4f39e43-727b-4feb-bea6-3f845e7d3e12,fixitagaintony.guitars,available,104.99,114.99,medium,low,17,namesilo,,,
 7cc04f2e-fcde-48dc-8bf6-203469ff2f29,leaning.guitars,available,104.99,114.99,low,low,7,namesilo,,,07/08/2026 13:24
 36b246cb-1f4f-40bf-9469-339ce6d2c7fb,resolvable.guitars,available,104.99,114.99,high,low,10,namesilo,,,
 cdcc5871-a01f-49ba-a93e-005819c3a72a,involvement.guitars,available,104.99,114.99,high,low,11,namesilo,,,
@@ -123,12 +123,12 @@ d7d2cb98-0da2-402b-9285-52cb02285805,cometomind.guitars,available,159.98,,high,l
 5b861dc4-e9ca-44b4-a413-f2804f40c7c8,temporary.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 23b0677d-ea77-469f-875f-bbd8b0026b3e,anaerobic.guitars,available,104.99,114.99,low,low,9,namesilo,,,
 1807ab52-150c-4be4-86bb-04a6ffd705a5,machine.guitars,available,104.99,114.99,medium,low,7,namesilo,,,08/09/2026 03:48
-bed1c7d5-ca8b-4165-b325-1d31079e177a,OurFather.guitars,available,104.99,114.99,low,low,10,namesilo,,,
+bed1c7d5-ca8b-4165-b325-1d31079e177a,ourfather.guitars,available,104.99,114.99,low,low,10,namesilo,,,
 180c9a9e-67bd-4410-a9c5-e0d31b582c67,goodnews.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 39740073-98f3-492a-90dc-1cdf1d75013e,intheabstract.guitars,available,104.99,114.99,medium,low,15,namesilo,,,
 200ce53b-418f-4540-9991-c2a23ab64e0d,cooked.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 3fbc0073-afdf-4808-a3eb-ca0febb78157,plausive.guitars,available,104.99,114.99,low,low,8,namesilo,,,06/08/2026 08:54
-0b78903c-628d-43e8-9670-645a13385997,Fanta.guitars,premium,2800,2800,high,low,5,namecheap,,,
+0b78903c-628d-43e8-9670-645a13385997,fanta.guitars,premium,2800,2800,high,low,5,namecheap,,,
 30d0346e-160e-4cf7-b3c9-59dd81ac617a,moneyeconomy.guitars,available,104.99,114.99,high,low,13,namesilo,,,
 59bc011d-0d81-4da9-85bf-f415230aeeef,ifyouaskme.guitars,available,104.99,114.99,medium,low,13,namesilo,,,
 c12801ff-7798-4b92-91ba-17e76d662f7a,piper.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
@@ -199,7 +199,7 @@ c15349c9-04f5-4b56-81d5-01e42d65c4c9,barely.guitars,available,159.98,,medium,low
 0f300c4f-db1c-4500-82df-3ac678c8f954,fivesome.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 27f33199-54dd-4269-9e83-b1eabc73464d,soccer.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 6e55b583-5d75-482e-944e-d1923b8607e2,getthepicture.guitars,available,159.98,,high,low,15,namecheap,,,
-fe5ab9a0-3dd3-400d-bb4f-8361f2272eaf,object.guitars,available,104.99,114.99,medium,low,6,namesilo,,,15/09/2026 04:57
+fe5ab9a0-3dd3-400d-bb4f-8361f2272eaf,object.guitars,available,104.99,114.99,medium,low,6,namesilo,,,19/09/2026 05:21
 47ea2c80-bfb6-4e06-8821-ddd0baa7735b,gobad.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 71719526-d067-453c-8ff4-a68f8df1038b,aborticide.guitars,available,104.99,114.99,low,low,10,namesilo,,,
 5fa3df72-974f-4b12-9f82-2e39870d3fa6,candidacy.guitars,available,104.99,114.99,high,low,9,namesilo,,,
@@ -227,9 +227,9 @@ c332f205-a4fa-4ad1-a409-7867b317642f,cinderella.guitars,available,104.99,114.99,
 135ad5e3-cb9e-49a3-b2ce-02d8c2562d44,carryout.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 8fd1f4b3-421d-430a-b730-184c92e8a9ec,wink.guitars,premium,2660,2660,high,low,4,namesilo,,,
 cdd49e23-2945-48be-b3ff-64af65e4e9af,getat.guitars,available,104.99,114.99,high,low,6,namesilo,,,
-3c68fdea-628f-47bd-847a-316b7c7d3cfc,begin.guitars,available,104.99,114.99,medium,low,5,namesilo,,,15/09/2026 05:53
+3c68fdea-628f-47bd-847a-316b7c7d3cfc,begin.guitars,available,108.98,159.98,medium,low,5,namecheap,,,19/09/2026 05:29
 58c8ef66-a42d-4db2-ab25-25a968dbf877,alabaster.guitars,available,104.99,114.99,low,low,9,namesilo,,,
-aa91b71d-cd45-43fa-81be-6b9cdbf52d2f,investing.guitars,available,104.99,114.99,high,low,9,namesilo,,,
+aa91b71d-cd45-43fa-81be-6b9cdbf52d2f,investing.guitars,available,104.99,114.99,medium,low,9,namesilo,,,19/09/2026 07:46
 71f7859b-fd37-41a6-9f72-02fc43781797,awesome.guitars,available,104.99,114.99,high,medium,7,namesilo,,,
 ce6804ab-c178-4494-a1cf-d1507e6bbc7f,sympathise.guitars,available,104.99,114.99,high,low,10,namesilo,,,
 82b392c1-c268-4ecd-a659-266cd7da20ee,rotated.guitars,available,159.98,,medium,low,7,namecheap,,,
@@ -243,7 +243,7 @@ b7f608db-c43b-4b30-aad4-489e64c72e4a,lowercase.guitars,available,104.99,114.99,h
 e2dd6b63-b815-4669-835a-c35fbf1c0133,ghostly.guitars,available,104.99,114.99,low,low,7,namesilo,,,06/08/2026 05:28
 95810114-d157-417d-b196-c6351e65dcf0,fake.guitars,available,104.99,114.99,low,low,4,namesilo,,,08/08/2026 23:02
 1ae48e10-c681-4574-9013-74061436a97a,nowandthen.guitars,available,104.99,114.99,low,low,12,namesilo,,,
-2b6b424d-f354-4ce0-82d6-ce76c7be1189,hat.guitars,available,104.99,114.99,medium,low,3,namesilo,,,13/09/2026 03:50
+2b6b424d-f354-4ce0-82d6-ce76c7be1189,hat.guitars,available,104.99,114.99,low,low,3,namesilo,,,19/09/2026 16:21
 61719ee8-f89f-4604-95ce-5420a8b77724,decorated.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 a7971002-7053-4088-9a5c-7df353cc7740,slighting.guitars,available,104.99,114.99,low,low,9,namesilo,,,09/08/2026 13:15
 73d953e4-e07a-491d-99f1-a8e8a852b7d8,antsy.guitars,available,104.99,114.99,low,low,5,namesilo,,,05/08/2026 20:27
@@ -254,7 +254,7 @@ a7971002-7053-4088-9a5c-7df353cc7740,slighting.guitars,available,104.99,114.99,l
 dd6d8bd6-88ac-4c03-86e9-27cd5ac5e2ab,howareyou.guitars,available,104.99,114.99,medium,low,11,namesilo,,,
 bb5850b0-a20f-41d9-a47e-5d7c79847f7b,unemployed.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
 89fa8e48-4ddb-4159-8048-39fe286a21b6,radioactivity.guitars,available,104.99,114.99,low,low,13,namesilo,,,
-e4ec782f-2d3e-4bd7-9996-abec6549485a,visual.guitars,available,104.99,114.99,medium,low,6,namesilo,,,15/09/2026 03:25
+e4ec782f-2d3e-4bd7-9996-abec6549485a,visual.guitars,available,108.98,159.98,medium,low,6,namecheap,,,19/09/2026 17:59
 f5278665-dd41-4be8-8085-fbe478e5ee5a,trial.guitars,available,159.98,,high,low,5,namecheap,,,
 0e4aad96-b93e-48b8-b700-937a484695a8,area.guitars,available,104.99,114.99,high,low,4,namesilo,,,
 17b56dc5-c902-40c7-b378-5e03fb048bdc,masterful.guitars,available,104.99,114.99,high,low,9,namesilo,,,
@@ -270,7 +270,7 @@ f85b23fc-70d3-4443-9d19-a48e54e94e61,campaigning.guitars,available,104.99,114.99
 b481e4ba-6f3b-4813-94d0-65336df63640,toe.guitars,available,159.98,,medium,low,3,namecheap,,,
 e7111997-b510-462c-b992-b558f416e491,afloat.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 68acddc7-981a-4b0b-af56-a978c5384352,bland.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
-2f1c6e2f-6438-4a58-9bdd-cf0eaa383d2e,Frenchlavender.guitars,available,104.99,114.99,high,low,15,namesilo,,,
+2f1c6e2f-6438-4a58-9bdd-cf0eaa383d2e,frenchlavender.guitars,available,104.99,114.99,high,low,15,namesilo,,,
 cce7ab85-5e72-4917-8c1e-39002742d7f6,generalgoods.guitars,available,104.99,114.99,medium,low,13,namesilo,,,
 807e8199-d0a8-4c19-aaa2-bf9510d1454f,enjoy.guitars,available,104.99,114.99,high,medium,5,namesilo,,,
 c6f54503-db74-4107-ac2c-465e00427993,chip.guitars,available,104.99,114.99,high,low,4,namesilo,,,
@@ -278,7 +278,7 @@ c6f54503-db74-4107-ac2c-465e00427993,chip.guitars,available,104.99,114.99,high,l
 35f3db39-4dad-47e8-a553-ea590b720860,sound.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 bc280506-e026-49a1-87f0-dfd15aca8957,bridges.guitars,available,159.98,,high,low,7,namecheap,,,
 dafd178e-f638-4ac2-afce-0efef04c7e5a,enrich.guitars,available,104.99,114.99,high,low,6,namesilo,,,
-67e4519a-340a-4615-84ef-eb1a76a24fb3,Netherlands.guitars,available,,,medium,low,11,,,,
+67e4519a-340a-4615-84ef-eb1a76a24fb3,netherlands.guitars,available,,,medium,low,11,,,,
 d84dd8a3-69e9-442e-98f3-db7468861dc5,suntea.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 1d66429a-5f68-465e-86e6-aefa72179eef,ted.guitars,available,159.98,,high,low,3,namecheap,,,
 d253cf3b-3d72-485a-83c0-5ff3384dbdf7,repugnant.guitars,available,104.99,114.99,low,low,9,namesilo,,,
@@ -308,7 +308,7 @@ e0a1cc61-9ae3-4f89-b31a-672256df426a,down.guitars,available,104.99,114.99,high,l
 56964623-0f86-4e02-8695-dcc15c2cef4c,intimate.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 5b85ab2e-665f-4a93-b2a4-5cc7e2236479,learnt.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
 a8727ab1-3f13-439f-b642-4337a461119b,quarterof.guitars,available,104.99,114.99,low,low,10,namesilo,,,
-71ff83f5-eeb9-4f41-b050-ebb0a0a3c887,artistry.guitars,available,104.99,114.99,medium,medium,8,namesilo,,,12/09/2026 03:54
+71ff83f5-eeb9-4f41-b050-ebb0a0a3c887,artistry.guitars,available,104.99,114.99,medium,low,8,namesilo,,,19/09/2026 06:29
 62f02931-15ab-41fd-a6d7-97117bb042f5,except.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 a42afcbd-ed1a-4147-b749-2fe85e2bc4d3,oxford.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
 171cb666-0340-4e6c-9b6a-0c2b4bdfb43f,revelation.guitars,available,159.98,,medium,low,10,namecheap,,,
@@ -339,12 +339,12 @@ f6657195-1e53-4b20-9896-6e5a676abfc7,clay.guitars,available,104.99,114.99,high,l
 36e70ed0-8b9b-4b06-925f-ddd51fde953b,divers.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 f48f35a3-4ee1-4ff2-b498-14615f38dfe3,wannabee.guitars,available,104.99,114.99,low,low,8,namesilo,,,07/08/2026 05:22
 06270f15-d27d-46e4-9d64-ca4bcbc3e117,leaving.guitars,available,104.99,114.99,high,low,7,namesilo,,,
-78138fa1-244a-4cde-9aa5-789cb34a5a17,WorldWarII.guitars,available,104.99,114.99,low,low,12,namesilo,,,
+78138fa1-244a-4cde-9aa5-789cb34a5a17,worldwarii.guitars,available,104.99,114.99,low,low,12,namesilo,,,
 2effc85b-d929-4aac-9d9e-2c064b6f016a,sixtyfive.guitars,available,104.99,114.99,low,low,10,namesilo,,,
 dbf8fa9e-5c98-4814-a8b9-7bddbf123061,toomany.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 30aeb3f5-3d96-4cc8-bde8-9e153dbf7d9c,plaguey.guitars,available,104.99,114.99,low,low,7,namesilo,,,
 772eba1b-4636-42c6-a0ee-608a89e8326e,silver.guitars,available,159.98,,medium,low,6,namecheap,,,
-1348ecf6-5290-4538-91b6-2ac78e9d2bff,medicine.guitars,available,104.99,114.99,high,low,8,namesilo,,,
+1348ecf6-5290-4538-91b6-2ac78e9d2bff,medicine.guitars,available,104.99,114.99,medium,low,8,namesilo,,,20/09/2026 02:42
 2aa4503e-98c1-4d36-b35b-0a337d178251,rejection.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 ca9d9ba1-b7fd-4648-beea-dc6423f921b8,laughter.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 e9266d6d-1e83-431e-8b25-76f26439a5fb,therefore.guitars,available,159.98,,medium,low,9,namecheap,,,
@@ -384,7 +384,7 @@ cf1e733f-6d5a-451e-af42-8dcdd4499b33,widowed.guitars,available,104.99,114.99,med
 5317e2a0-62c7-44eb-b94c-07288a91a9ca,beating.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 4b7846bb-6a50-42b5-84b2-191e8b6bfbe3,unplug.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 8d5f29a4-459c-4724-9d46-e9a5625eee93,turtleneckcollar.guitars,available,104.99,114.99,high,low,17,namesilo,,,
-925481f7-3694-4432-ba64-5e320759431d,BJP.guitars,available,159.98,,medium,low,3,namecheap,,,
+925481f7-3694-4432-ba64-5e320759431d,bjp.guitars,available,159.98,,medium,low,3,namecheap,,,
 c7443ffc-b893-42a0-a02d-021c6906121f,amharic.guitars,available,104.99,114.99,low,low,7,namesilo,,,
 045f7045-3f62-445d-9055-b04669d0a14d,standfor.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 0e3a16df-751d-4ce8-b3fc-ebdb7cc8ef1b,tie.guitars,available,104.99,114.99,high,low,3,namesilo,,,
@@ -395,7 +395,7 @@ c7443ffc-b893-42a0-a02d-021c6906121f,amharic.guitars,available,104.99,114.99,low
 5dc56349-6458-4fa2-a127-d1790a5d23fb,abovewritten.guitars,available,104.99,114.99,medium,low,13,namesilo,,,
 bf4894a0-0343-49fc-bf12-aaa5ee3930cb,concrete.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 a9f04c23-a72a-467b-b0d9-038704734e53,adonic.guitars,available,104.99,114.99,low,low,6,namesilo,,,
-ac1337ae-a3ec-49eb-9cca-9951ca05fbcd,Californian.guitars,available,104.99,114.99,high,low,11,namesilo,,,
+ac1337ae-a3ec-49eb-9cca-9951ca05fbcd,californian.guitars,available,104.99,114.99,high,low,11,namesilo,,,
 e8887e69-5654-4b59-8939-83549c06e25c,sterile.guitars,available,159.98,,medium,low,7,namecheap,,,
 3d48dab7-3ecc-45a0-a88b-cbb3a928df31,adenoidal.guitars,available,104.99,114.99,low,low,9,namesilo,,,
 918eda41-f75f-46f0-be52-ed79f9565646,amaurotic.guitars,available,104.99,114.99,low,low,9,namesilo,,,
@@ -406,7 +406,7 @@ a25a321a-bdd8-4279-a7a8-acf18ed1702b,pustulate.guitars,available,104.99,114.99,l
 14a8cc10-db10-415d-b164-0524fbc52c96,cheerily.guitars,available,104.99,114.99,medium,low,8,namesilo,,,
 b0c8b4a0-ff97-49f8-81f2-47f545febbf0,interest.guitars,available,104.99,114.99,medium,low,8,namesilo,,,08/09/2026 14:02
 32a7e234-0244-4520-8f4a-db4518da9f0f,exclamationmark.guitars,available,159.98,,medium,low,16,namecheap,,,
-1967efdf-9bec-45ce-9083-963403cb46d2,Friends.guitars,available,104.99,114.99,medium,medium,7,namesilo,,,
+1967efdf-9bec-45ce-9083-963403cb46d2,friends.guitars,available,104.99,114.99,medium,medium,7,namesilo,,,
 10b0d3dd-d0b2-4950-b208-1f48325a6619,jealous.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 07589b1e-97cd-4a3a-ad9a-1143e4517258,silotruck.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
 e5e24f56-b366-4bc2-aaca-166957867bb3,accrued.guitars,available,104.99,114.99,low,low,7,namesilo,,,
@@ -434,7 +434,7 @@ b2618bfd-0ab0-4ff9-9f70-e02d9d486dcf,fiftyone.guitars,available,104.99,114.99,lo
 0cea5825-c051-41d2-9028-3505addeb333,garret.guitars,available,104.99,114.99,low,low,6,namesilo,,,07/08/2026 15:51
 be3fcc1b-6a5b-4d5b-97b0-05db993cf096,givesomeoneakiss.guitars,available,104.99,114.99,medium,low,19,namesilo,,,
 e07fd53d-6229-4b36-8c59-f1033b37b649,alot.guitars,available,104.99,114.99,high,low,5,namesilo,,,
-5eac4544-367d-40c3-8a2b-ca6928bb29af,BlackPlague.guitars,available,104.99,114.99,low,low,12,namesilo,,,
+5eac4544-367d-40c3-8a2b-ca6928bb29af,blackplague.guitars,available,104.99,114.99,low,low,12,namesilo,,,
 4cdc867d-0285-4f2c-899e-63e88986b6ac,ship.guitars,available,104.99,114.99,high,low,4,namesilo,,,
 61e25602-0918-43ba-ae40-dc80c50da399,stranger.guitars,available,159.98,,high,low,8,namecheap,,,
 a7e5fe3e-f1c3-4292-a998-f716ed6cb8d0,melancholy.guitars,available,104.99,114.99,high,low,10,namesilo,,,
@@ -452,14 +452,14 @@ f7fc6ad8-8799-4baf-9ab1-c4bf9e3c1da6,apomictic.guitars,available,104.99,114.99,l
 315cc545-11f4-48a0-b251-4c88cc58bb06,propose.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 2ca610f9-4bc8-493a-b875-4ae0838782ca,ampullar.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 b880b159-7f43-4bcf-9b93-74427caddeba,north.guitars,available,104.99,114.99,high,low,5,namesilo,,,
-d4c3b8ce-eb77-4ec8-b42b-9f9868f96a27,Nickelodeon.guitars,available,159.98,,high,low,11,namecheap,,,
+d4c3b8ce-eb77-4ec8-b42b-9f9868f96a27,nickelodeon.guitars,available,159.98,,high,low,11,namecheap,,,
 8fb42a1a-d451-4b69-b5bb-8fa3c1b40084,brag.guitars,available,104.99,114.99,high,low,4,namesilo,,,
 3ba22968-41bc-4d51-ad02-b5aeec04788b,ixl.guitars,available,,,medium,low,3,,,,
 63dfaeb2-e740-46d8-913d-f395dc3fdc14,nutrient.guitars,available,104.99,114.99,medium,low,8,namesilo,,,08/09/2026 11:42
 02e0349b-8313-43cf-b9a6-12ba0ab63683,boy.guitars,premium,910,910,medium,low,3,namecheap,,,
 1d6785eb-efad-47bd-b5cb-914bdf25f8d4,allow.guitars,available,104.99,114.99,low,low,5,namesilo,,,06/08/2026 09:03
-82975e0e-5029-4773-9eac-f499bf895dc8,woo.guitars,available,159.98,,medium,high,3,namecheap,,,
-abc31329-62f3-41ec-a69f-302078c2d2d7,WikiLeaks.guitars,available,159.98,,low,low,9,namecheap,,,
+82975e0e-5029-4773-9eac-f499bf895dc8,woo.guitars,available,104.99,114.99,low,low,3,namesilo,,,19/09/2026 13:15
+abc31329-62f3-41ec-a69f-302078c2d2d7,wikileaks.guitars,available,159.98,,low,low,9,namecheap,,,
 9fac3661-3f10-4e3f-b81e-576020136ffd,crash.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 ce88be65-caaf-453d-b3a9-59c426d73000,encounter.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 7aed760c-0d0e-4e78-9bfa-73c37fc28f1f,question.guitars,available,104.99,114.99,high,low,8,namesilo,,,
@@ -481,7 +481,7 @@ dfe135f9-ce30-4f2b-be0f-cc17fc7451ec,sliding.guitars,available,104.99,114.99,hig
 4401af85-528e-47c5-843a-8799d80cb6ad,powerstrip.guitars,available,104.99,114.99,high,low,11,namesilo,,,
 8c7a2bf8-4bf8-41a6-aefd-1821611703c1,havesomeonethere.guitars,available,104.99,114.99,medium,low,18,namesilo,,,
 9a27a5dc-ee39-4abf-b4a4-c190475839b5,avifaunal.guitars,available,104.99,114.99,low,low,9,namesilo,,,07/08/2026 23:30
-0445b58f-e53e-4f0a-97e6-31e392c3e04c,WhiteCloud.guitars,available,104.99,114.99,low,low,11,namesilo,,,
+0445b58f-e53e-4f0a-97e6-31e392c3e04c,whitecloud.guitars,available,104.99,114.99,low,low,11,namesilo,,,
 a967c761-9211-4df5-b744-0b0c00648cc7,adequate.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 beaf0b98-7e50-4d78-ae99-4737dcc9a472,drawn.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
 2e0f8490-1c64-41bc-ae41-60314c565df4,aversive.guitars,available,104.99,114.99,low,low,8,namesilo,,,07/08/2026 22:40
@@ -491,15 +491,15 @@ b7422709-ec2e-4102-8692-6651f8f31e2e,caper.guitars,available,159.98,,high,low,5,
 7d64fd75-e08a-46a5-86b5-c05add4fa7ec,nipping.guitars,available,104.99,114.99,low,low,7,namesilo,,,08/08/2026 16:46
 0cf4a5ad-a7d4-4419-b27a-c695bcebed73,serveup.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 0a7cdd6f-63f9-4a4e-a784-808f1b215310,prenatal.guitars,available,159.98,,high,low,8,namecheap,,,
-af0ccc6c-d48b-4ad7-8ab6-1829124e068a,Bluetooth.guitars,available,159.98,,high,low,9,namecheap,,,
+af0ccc6c-d48b-4ad7-8ab6-1829124e068a,bluetooth.guitars,available,159.98,,high,low,9,namecheap,,,
 da0b3164-9783-4e61-9f07-6264833fcd0c,nearpost.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 506175af-f978-4be7-ac41-03f8dfba266d,sauce.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 1283ee2a-d9fb-4b3f-95d9-b02e72e76bc1,encouraged.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
 fd422451-fde0-4c0b-8ec4-4e4ec01a02db,assistive.guitars,available,104.99,114.99,low,low,9,namesilo,,,07/08/2026 06:40
 74c9b0ec-84a6-4eb8-a18c-d842d04d29bb,ammoniacal.guitars,available,104.99,114.99,low,low,10,namesilo,,,
 ec486ba4-f2da-471b-bbdc-8cd94759bd5e,clxv.guitars,available,104.99,114.99,low,low,4,namesilo,,,
-4c92681b-e0fc-4e44-a16c-3f0e46a61d5b,Rhoda.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
-7e75bfdc-12bd-41d3-b328-5839da193da6,Gregor.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
+4c92681b-e0fc-4e44-a16c-3f0e46a61d5b,rhoda.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
+7e75bfdc-12bd-41d3-b328-5839da193da6,gregor.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
 d413f15b-868e-468f-9c70-c0a4e4627ed8,genius.guitars,available,104.99,114.99,high,medium,6,namesilo,,,
 51d28ff3-3e28-478b-8e26-98ec986b107c,eyeofthebeholder.guitars,available,104.99,114.99,high,low,19,namesilo,,,
 e73d3b2f-ddb9-42bb-8203-abe0ab3b036b,affirmative.guitars,available,104.99,114.99,high,low,11,namesilo,,,
@@ -511,7 +511,7 @@ e73d3b2f-ddb9-42bb-8203-abe0ab3b036b,affirmative.guitars,available,104.99,114.99
 26ce6db7-2ced-4c27-be37-53434542cf52,auditory.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 7dc286b1-c915-4a7d-9511-299c4a4dbbfa,acceptant.guitars,available,104.99,114.99,low,low,9,namesilo,,,
 86769516-1bec-4414-a557-e7ce5e15cf40,manythanks.guitars,available,104.99,114.99,high,low,11,namesilo,,,
-f983a88a-6007-41bd-b1ac-212c61d20cc7,Women.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
+f983a88a-6007-41bd-b1ac-212c61d20cc7,women.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
 97cedbfe-9dbe-4fff-b86a-fa7ccb8e95f7,beside.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
 b3b31642-4c73-418c-9127-8dd6b0403a12,faithful.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 2158ce55-7b53-4642-af64-897bd9fc3680,industrial.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
@@ -520,7 +520,7 @@ b6e9cf3f-4367-4ee6-a27a-9fdd261a0669,mainly.guitars,available,104.99,114.99,high
 d1daaf4c-056f-411a-9135-89f01befa69a,lateron.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 26a725c7-8292-464e-98da-9ae81d3a503a,participating.guitars,available,159.98,,low,low,13,namecheap,,,
 a048a523-bced-4dff-9c45-3f91e51aefdc,diplomat.guitars,available,104.99,114.99,high,low,8,namesilo,,,
-206bf083-c8e1-4327-b03c-2b0ec8df0a9f,howwouldIknow.guitars,available,104.99,114.99,medium,low,16,namesilo,,,
+206bf083-c8e1-4327-b03c-2b0ec8df0a9f,howwouldiknow.guitars,available,104.99,114.99,medium,low,16,namesilo,,,
 05e1b5a8-99f4-435e-a6e0-1c72d2783799,dingy.guitars,available,104.99,114.99,low,low,5,namesilo,,,09/08/2026 09:20
 8e5f658b-93da-48a7-a451-38cfea9b469b,obvious.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 5af782ca-a002-4150-a886-19ee1c4c4303,generalstudies.guitars,available,104.99,114.99,high,low,15,namesilo,,,
@@ -544,10 +544,10 @@ b086e517-ab75-47f0-bee6-1bbaaa797dcb,lxvi.guitars,available,104.99,114.99,low,lo
 7f4f678d-9aa7-49a6-ac9a-577079f60481,belarusian.guitars,available,104.99,114.99,low,low,10,namesilo,,,09/08/2026 12:32
 46301143-2a8f-461b-bc43-df2e9d1666fa,keepthepeace.guitars,available,104.99,114.99,high,low,14,namesilo,,,
 70bb6d57-242b-44cb-a657-e73ae1dd9486,nectarous.guitars,available,104.99,114.99,low,low,9,namesilo,,,
-886898a0-e611-4cf7-9fbb-479f975d46f7,Siri.guitars,premium,2660,2660,high,high,4,namesilo,,,
+886898a0-e611-4cf7-9fbb-479f975d46f7,siri.guitars,premium,2660,2660,high,high,4,namesilo,,,
 1dc3364f-4ad1-4d84-8202-6ff962ea1e05,fauna.guitars,available,104.99,114.99,low,low,5,namesilo,,,
 ab5ba86f-43d6-4fe5-9e3e-6c4f1a62c0ef,parkingattendant.guitars,available,159.98,,medium,low,17,namecheap,,,
-f9035b02-2788-4482-90af-36c29d1f4d5a,course.guitars,available,104.99,114.99,high,low,6,namesilo,,,
+f9035b02-2788-4482-90af-36c29d1f4d5a,course.guitars,available,104.99,114.99,medium,low,6,namesilo,,,20/09/2026 02:53
 7adfaa26-25e8-4bf4-abc2-b760a41dd4cb,highquality.guitars,available,104.99,114.99,medium,low,12,namesilo,,,
 6eec6cdf-b47d-49cb-92eb-8b5f85ef9837,ranking.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 8651bce1-7a18-4d52-b701-74172fb1bac7,status.guitars,available,104.99,114.99,high,medium,6,namesilo,,,
@@ -575,11 +575,11 @@ f45744c3-d210-4d7c-9f18-bb88754c1819,demoniacal.guitars,available,104.99,114.99,
 3799c16e-c7d9-44c8-9adf-1fd1c4ff33c1,prochoice.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
 54e7eed5-1bf0-4192-840c-90fdee79f3de,riskcapital.guitars,available,104.99,114.99,low,low,12,namesilo,,,
 09946c23-25e1-4f0e-9ba3-548af27c0f8d,xxxviii.guitars,available,104.99,114.99,low,low,7,namesilo,,,
-45b977e4-49aa-44a2-9b66-4526636ddea6,FrenchRepublic.guitars,available,159.98,,medium,medium,15,namecheap,,,
-30795f4c-6ddd-435a-b848-35f02dd3d0a0,column.guitars,available,104.99,114.99,medium,low,6,namesilo,,,13/09/2026 02:56
-1309674b-38bf-4301-bf3f-81f927df005d,Irishhospitality.guitars,available,104.99,114.99,high,low,17,namesilo,,,
+45b977e4-49aa-44a2-9b66-4526636ddea6,frenchrepublic.guitars,available,159.98,,medium,medium,15,namecheap,,,
+30795f4c-6ddd-435a-b848-35f02dd3d0a0,column.guitars,available,104.99,114.99,medium,low,6,namesilo,,,19/09/2026 04:50
+1309674b-38bf-4301-bf3f-81f927df005d,irishhospitality.guitars,available,104.99,114.99,high,low,17,namesilo,,,
 d214adf1-2f9a-446e-a0ec-f3060ebae551,literal.guitars,available,104.99,114.99,high,low,7,namesilo,,,
-8ce14dbc-115b-4c87-838d-4dd88b97af2b,clean.guitars,available,104.99,114.99,high,low,5,namesilo,,,
+8ce14dbc-115b-4c87-838d-4dd88b97af2b,clean.guitars,available,104.99,114.99,medium,low,5,namesilo,,,19/09/2026 12:48
 a8c74642-8612-4bfb-9aa7-88a702b7af50,beatenup.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 f8b93973-bd92-459f-9161-77bf32840aff,useful.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 24999553-facd-42ee-b310-eda031b22387,tested.guitars,available,104.99,114.99,high,low,6,namesilo,,,
@@ -640,7 +640,7 @@ e49e8655-685d-47c4-8d77-8ce1d0292b56,visited.guitars,available,104.99,114.99,hig
 5e09a68e-0613-4dc5-a13a-24d0c51e4025,asthmatic.guitars,available,159.98,,medium,low,9,namecheap,,,
 cdedfefe-ba85-418d-bb61-58055dd9687f,talkingpoint.guitars,available,104.99,114.99,medium,low,13,namesilo,,,
 d871b921-bc79-446f-8714-96cac49ce267,entirely.guitars,available,104.99,114.99,low,low,8,namesilo,,,
-a015ec6c-1ddd-4e81-987a-ef74b952ce6a,production.guitars,available,104.99,114.99,medium,low,10,namesilo,,,15/09/2026 04:24
+a015ec6c-1ddd-4e81-987a-ef74b952ce6a,production.guitars,available,108.98,159.98,medium,low,10,namecheap,,,19/09/2026 18:56
 39a66f9e-630c-49a2-8cc0-c1c13dd03c9c,aegean.guitars,available,,,high,low,6,,,,
 b48994ef-20ca-48ab-a542-f6494fc84a4e,certainly.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 f36829ab-479e-48fa-9a98-5df87ffa20fa,optic.guitars,available,104.99,114.99,high,low,5,namesilo,,,
@@ -690,7 +690,7 @@ ad6de028-ff26-44e4-9fa4-3f4a1edd15e7,ablative.guitars,available,104.99,114.99,lo
 3219cba8-073d-4c8e-9d6f-84d57268c64a,appalled.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 fd08be7d-bac7-4a1e-907d-082b0bbc99d8,argent.guitars,available,108.98,159.98,low,low,6,namecheap,,,06/08/2026 17:51
 fb5ccd81-43b0-41b2-8b93-56903225d465,detection.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
-eb3a0301-afc3-4d19-a0a0-e6fa1d076fc2,Frenchpie.guitars,available,159.98,,medium,low,10,namecheap,,,
+eb3a0301-afc3-4d19-a0a0-e6fa1d076fc2,frenchpie.guitars,available,159.98,,medium,low,10,namecheap,,,
 9b05160f-0211-4705-859e-dd28828e8d9e,diligent.guitars,available,104.99,114.99,medium,low,8,namesilo,,,
 1fc3ef6b-a2e4-4658-9b3a-6835ec6d4dd6,rely.guitars,available,104.99,114.99,high,low,4,namesilo,,,
 db35f951-af03-47bf-a223-7f5762230f64,adjuratory.guitars,available,104.99,114.99,low,low,10,namesilo,,,
@@ -707,9 +707,9 @@ ea707e6a-3887-4023-88d1-6eb075206bed,xxvii.guitars,available,104.99,114.99,low,l
 7b780df7-42a3-4346-8b32-8ab58d38c3a2,inthethickofit.guitars,available,104.99,114.99,medium,low,18,namesilo,,,
 3577e7cb-a640-4d85-b215-5e762597320a,blinking.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 9c955139-25c2-44c8-a834-d5cf5a4d7815,uremic.guitars,available,104.99,114.99,low,low,6,namesilo,,,08/08/2026 02:43
-6268a82c-1baf-40d4-8a53-1252c7e1a32d,WestBay.guitars,available,104.99,114.99,low,low,8,namesilo,,,
+6268a82c-1baf-40d4-8a53-1252c7e1a32d,westbay.guitars,available,104.99,114.99,low,low,8,namesilo,,,
 b5c13f8f-883a-4a22-8413-2a521af48a6a,mingle.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
-ecea5548-0797-412b-a67e-c80269c3b69a,dot.guitars,available,104.99,114.99,medium,medium,3,namesilo,,,13/09/2026 03:22
+ecea5548-0797-412b-a67e-c80269c3b69a,dot.guitars,available,108.98,159.98,medium,low,3,namecheap,,,19/09/2026 16:13
 4ae33602-95ec-41ab-b566-01076b067c16,second.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 35e415e7-1137-4952-9324-6eadda17951e,rollabout.guitars,available,104.99,114.99,low,low,10,namesilo,,,
 d2738346-a73a-4f86-8240-41e8e36487c7,economically.guitars,available,104.99,114.99,medium,low,12,namesilo,,,
@@ -763,12 +763,11 @@ e9b68b4f-9d10-441a-8a64-f77e25fa72a0,lastminute.guitars,available,104.99,114.99,
 f33dc427-4894-48ec-87d4-80e0140bed67,bounce.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 30924f6a-ec9a-49f6-a25e-cc835a97bc6e,giveortake.guitars,available,104.99,114.99,medium,low,12,namesilo,,,
 6e1c34be-5fca-4baa-9464-06ce140a41f9,notion.guitars,available,104.99,114.99,high,low,6,namesilo,,,
-ee3e60ed-2656-4b75-a01b-8319620c8c0c,Spotify.guitars,premium,2600,2600,high,medium,7,namecheap,,,12/09/2026 04:13
 6d87253c-90b0-4d0a-ac12-79c31d41785f,carefully.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
-6717ed9b-889d-427c-ae23-1fefe6dc83f8,Nokia.guitars,premium,2660,2660,high,high,5,namesilo,,,
+6717ed9b-889d-427c-ae23-1fefe6dc83f8,nokia.guitars,premium,2660,2660,high,high,5,namesilo,,,
 79c15b4d-016b-414c-8d71-779e9be0c5a2,chemicalweapon.guitars,available,159.98,,medium,low,15,namecheap,,,
 37a4d1dc-b595-46f6-89a7-41a8f5848628,dignity.guitars,available,104.99,114.99,high,low,7,namesilo,,,
-74e7ef16-5ee7-4fd6-8b19-1f92a036451a,StFrancis.guitars,available,104.99,114.99,medium,low,11,namesilo,,,
+74e7ef16-5ee7-4fd6-8b19-1f92a036451a,stfrancis.guitars,available,104.99,114.99,medium,low,11,namesilo,,,
 da54bf09-3cf5-4085-b37e-93a9fb0baa83,agree.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 4313cfcd-0da5-4101-8882-1d61618af3ff,antitrust.guitars,available,104.99,114.99,low,low,9,namesilo,,,
 58dae11a-936a-4b95-8156-24235c938b10,feet.guitars,premium,2660,2660,high,low,4,namesilo,,,
@@ -797,7 +796,7 @@ d888e335-1f87-4619-9704-a1f51c691e6a,lxxxvii.guitars,available,108.98,159.98,low
 f30a243a-8266-4a82-9d33-0dd9238fc52d,infrontof.guitars,available,159.98,,medium,low,11,namecheap,,,
 6c0692b3-6cb1-4f99-b450-e03b44d1e97b,trace.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
 8e5cf73c-33e5-4069-9b42-50d7137941e5,builtin.guitars,available,104.99,114.99,high,low,8,namesilo,,,
-17b46c2d-3112-418a-a9a7-a8d73721d42b,StCharles.guitars,available,104.99,114.99,medium,low,11,namesilo,,,
+17b46c2d-3112-418a-a9a7-a8d73721d42b,stcharles.guitars,available,104.99,114.99,medium,low,11,namesilo,,,
 13dea9d5-3e68-4aed-8318-153e3b164364,exemplary.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 2f0f97e5-8525-45e1-ab3f-fba427233041,ash.guitars,available,104.99,114.99,medium,low,3,namesilo,,,
 d561e2b1-1538-4e3f-83a6-46bb30e1e9ad,battered.guitars,available,104.99,114.99,medium,low,8,namesilo,,,
@@ -806,7 +805,7 @@ d561e2b1-1538-4e3f-83a6-46bb30e1e9ad,battered.guitars,available,104.99,114.99,me
 cb72ffd4-265b-47f3-aa7f-4dd667b1e0b0,abulic.guitars,available,104.99,114.99,low,low,6,namesilo,,,
 ae7cd08c-5df9-4535-a9a3-885107f33e75,speedofsound.guitars,available,104.99,114.99,medium,low,14,namesilo,,,
 e522aeb7-cde5-486a-92c6-55be48ff8fba,ecommerce.guitars,available,104.99,114.99,high,low,10,namesilo,,,
-f67c6822-ed09-4fc9-acc0-aebf106fd174,StPetersburg.guitars,available,104.99,114.99,medium,low,14,namesilo,,,
+f67c6822-ed09-4fc9-acc0-aebf106fd174,stpetersburg.guitars,available,104.99,114.99,medium,low,14,namesilo,,,
 d4851212-8e22-4ce0-9f75-a0306dc998b7,cordial.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 9b973737-dc52-4032-9b55-130dde4a38d5,grandchild.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
 7459ae06-d414-4246-928f-6193ec7c11f4,vacation.guitars,available,104.99,114.99,high,low,8,namesilo,,,
@@ -869,13 +868,13 @@ c4b0653a-7c1c-4814-ab01-a812077d0c74,plotted.guitars,available,104.99,114.99,hig
 022bf08d-8fc9-4869-85fa-04bac45f0cdc,conclusive.guitars,available,104.99,114.99,medium,low,10,namesilo,,,
 14587640-6603-4b60-b141-e948f698aeda,bible.guitars,available,104.99,114.99,high,medium,5,namesilo,,,
 e9c12afc-e218-4e69-a1cd-1029865de072,crush.guitars,available,104.99,114.99,medium,low,5,namesilo,,,09/08/2026 05:21
-6fa8265d-6bf3-4876-852f-ece7d200490a,stove.guitars,available,104.99,114.99,medium,low,5,namesilo,,,15/09/2026 04:20
+6fa8265d-6bf3-4876-852f-ece7d200490a,stove.guitars,available,108.98,159.98,low,low,5,namecheap,,,19/09/2026 18:48
 d9a8589f-14ce-44d6-8810-0f7aa0962fd4,crack.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
 92955c64-465f-4f47-afde-f23c1d77c3c7,tieup.guitars,available,104.99,114.99,low,low,6,namesilo,,,17/09/2026 14:23
 e978abdf-a8da-43b9-8aae-c736819470c8,xxxvii.guitars,available,104.99,114.99,low,low,6,namesilo,,,
 426b6181-99c9-4f7a-8128-4d15727de3cc,bloom.guitars,available,104.99,114.99,high,medium,5,namesilo,,,
 1d433b1c-c87c-4117-917f-993f0ae643b9,balsamy.guitars,available,104.99,114.99,low,low,7,namesilo,,,08/08/2026 10:36
-3ec1c04e-5c24-4273-b1f1-05cccd1ca1ff,HIVvirus.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
+3ec1c04e-5c24-4273-b1f1-05cccd1ca1ff,hivvirus.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 3251311f-61da-4365-bc23-7796d565cb12,terrific.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 7333b6a1-816e-4067-88c6-7511db3fe420,import.guitars,available,104.99,114.99,high,low,6,namesilo,,,
 293f1ea9-1c66-4096-b2ea-60475a08ff86,began.guitars,available,104.99,114.99,medium,low,5,namesilo,,,
@@ -890,7 +889,7 @@ e8869bb5-6d5f-4e61-b40a-7e01da4d0805,written.guitars,available,104.99,114.99,hig
 1ba18ad3-0e8c-44b3-8f70-a11a9bf21287,autoicous.guitars,available,104.99,114.99,low,low,9,namesilo,,,07/08/2026 20:26
 64717b9f-5b5f-4b9c-9b58-8213164a53de,fight.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 f8589e84-2406-40bd-adc9-54e9d47580a2,commonman.guitars,available,104.99,114.99,high,low,10,namesilo,,,
-1d8af2b7-0bfa-4ec5-bb7a-4e336bdfa413,processed.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
+1d8af2b7-0bfa-4ec5-bb7a-4e336bdfa413,processed.guitars,available,104.99,114.99,low,low,9,namesilo,,,19/09/2026 13:08
 0ab32160-a0a5-45bf-a3a9-15d9b5116202,frog.guitars,available,108.98,159.98,medium,low,4,namecheap,,,05/08/2026 21:03
 f19e96ad-c080-46cb-ab61-4ee57dca482d,addressed.guitars,available,104.99,114.99,low,low,9,namesilo,,,
 e8777bb8-da3b-4aa0-903a-74b31d64cd40,oilpainting.guitars,available,104.99,114.99,medium,low,12,namesilo,,,
@@ -909,7 +908,7 @@ b9e12c9e-1883-4b28-a055-8f0af2eed5f0,activist.guitars,available,104.99,114.99,hi
 c7426099-c3bd-4407-9135-1b9694bcdce6,trained.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 cb91797c-4ee3-4e51-97da-e5ac0a0a9d8c,sheeit.guitars,available,104.99,114.99,medium,low,6,namesilo,,,
 3284aaf3-631d-4ef3-b1c9-c731334c43c2,groundless.guitars,available,104.99,114.99,low,low,10,namesilo,,,08/08/2026 21:49
-153bdd95-655b-4ddf-891f-362aa42d6a09,Eliza.guitars,available,104.99,114.99,high,low,5,namesilo,,,
+153bdd95-655b-4ddf-891f-362aa42d6a09,eliza.guitars,available,104.99,114.99,high,low,5,namesilo,,,
 43974176-25d3-44a9-9757-76ac0d11e86d,core.guitars,premium,2800,2800,medium,medium,4,namecheap,,,
 eb113d8e-eab9-4901-b46d-f8a4d1444590,pointofview.guitars,available,104.99,114.99,low,low,13,namesilo,,,
 b988d860-020c-43d6-9932-9534cdecc5eb,dateofbirth.guitars,available,104.99,114.99,high,low,13,namesilo,,,
@@ -948,7 +947,7 @@ dcc60eff-c6b1-43ec-8a50-39f8fe8acded,session.guitars,available,104.99,114.99,hig
 ec76936d-bd78-48f0-8613-ea74b339ae04,beakless.guitars,available,104.99,114.99,low,low,8,namesilo,,,09/08/2026 03:55
 516d2888-9bfd-4051-b62a-85a9c35a24db,cunning.guitars,available,104.99,114.99,medium,low,7,namesilo,,,
 bf9d2ebd-ffc8-46b5-a80e-7778ba2982bb,animating.guitars,available,104.99,114.99,high,low,9,namesilo,,,
-3453a289-0541-4912-84c9-223a9f9221b3,party.guitars,available,104.99,114.99,medium,low,5,namesilo,,,14/09/2026 05:45
+3453a289-0541-4912-84c9-223a9f9221b3,party.guitars,available,104.99,114.99,medium,low,5,namesilo,,,19/09/2026 09:39
 a1215064-8974-4c9b-9c46-9b0ee4b591d4,slanted.guitars,available,104.99,114.99,low,low,7,namesilo,,,07/08/2026 04:15
 a91c44c6-e30d-4899-8cd8-30af689ba66d,wore.guitars,available,104.99,114.99,low,low,4,namesilo,,,
 98eed9c8-58f6-4aed-b759-ae821ecefbd5,obscene.guitars,available,104.99,114.99,low,low,7,namesilo,,,
@@ -970,7 +969,7 @@ a00c6bb9-e396-4ab9-9710-ec553bb8ba08,stockupon.guitars,available,104.99,114.99,l
 1f7c4845-7ca5-49b7-a705-0a3635e395e1,basipetal.guitars,available,104.99,114.99,low,low,9,namesilo,,,08/08/2026 22:43
 9d139b08-47b3-4df0-84d9-6e6fe9d29b28,appreciate.guitars,available,104.99,114.99,high,low,10,namesilo,,,
 c7ba4b75-7b2c-400c-8fac-9c41d5ae3ab0,sheraton.guitars,premium,2660,2660,medium,high,8,namesilo,,,
-e7b729f3-f32c-40d1-9a0d-e54ffede12cc,hot.guitars,available,104.99,114.99,medium,medium,3,namesilo,,,12/09/2026 10:33
+e7b729f3-f32c-40d1-9a0d-e54ffede12cc,hot.guitars,available,104.99,114.99,medium,low,3,namesilo,,,19/09/2026 15:25
 e4d26519-0fb6-409b-b431-013981e715a6,cry.guitars,available,104.99,114.99,high,low,3,namesilo,,,
 4e09719d-4a0e-443f-a913-91f16120adb2,often.guitars,available,159.98,,high,low,5,namecheap,,,
 65526c1c-6486-4643-8545-b4f9cb8585d1,thirdway.guitars,available,104.99,114.99,high,low,9,namesilo,,,
@@ -984,7 +983,7 @@ b12a53fe-834a-49de-84d9-d4b958192478,asleep.guitars,available,159.98,,high,low,6
 bdcf50ac-34fe-4004-be21-43c249b43298,estimate.guitars,available,104.99,114.99,high,low,8,namesilo,,,
 b2b1663a-19d9-47bb-a7f0-6eed687aaa1a,amateur.guitars,available,104.99,114.99,high,low,7,namesilo,,,
 6583a81f-c543-4570-8eb8-3ebde418fedd,riled.guitars,available,104.99,114.99,low,low,5,namesilo,,,
-f6020eec-061d-4b34-8265-ad27a7e84ea4,ColonelSanders.guitars,available,104.99,114.99,high,low,15,namesilo,,,
+f6020eec-061d-4b34-8265-ad27a7e84ea4,colonelsanders.guitars,available,104.99,114.99,high,low,15,namesilo,,,
 80c9be93-d25f-4b3f-bc59-aa2c41585b35,should.guitars,available,159.98,,high,low,6,namecheap,,,
 39874643-ffde-4e2f-bdc1-a0a3a0ded5eb,worsening.guitars,available,104.99,114.99,medium,low,9,namesilo,,,
 8c345665-4176-47c9-8606-e0b6f59ceeb9,airless.guitars,available,104.99,114.99,low,low,7,namesilo,,,
@@ -996,6 +995,7 @@ c3fe99ce-7ad5-4099-86ca-a0b2b062bf11,spellingword.guitars,available,104.99,114.9
 73ed0f29-cbb9-4320-9e18-f09988d13a95,laziness.guitars,available,104.99,114.99,medium,low,8,namesilo,,,
 ee63097a-0ebd-4974-a956-6a042b7f1ce4,fullscale.guitars,available,104.99,114.99,high,low,10,namesilo,,,
 bbb3e304-8412-43be-bbaa-6fff23319b3d,investmentbanking.guitars,available,104.99,114.99,high,low,18,namesilo,,,
-22af3621-e9f6-4052-aca8-ed7df92cae10,education.guitars,available,104.99,114.99,high,low,9,namesilo,,,
+22af3621-e9f6-4052-aca8-ed7df92cae10,education.guitars,available,108.98,159.98,medium,low,9,namecheap,,,19/09/2026 06:14
 39e41cf7-4e78-4953-8c3b-864974483e6e,seven.guitars,premium,832,832,low,medium,5,namesilo,,,
 22ba331c-06bd-4b45-96f9-9381e73f9a11,explorer.guitars,available,104.99,114.99,high,low,8,namesilo,,,
+28b75e30-e80e-4f13-a07e-577e76a29428,comforted.guitars,available,104.99,114.99,high,low,9,namesilo,,,
